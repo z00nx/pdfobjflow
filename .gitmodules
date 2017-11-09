@@ -1,0 +1,3 @@
+[submodule "pdfobjflow"]
+	path = pdfobjflow
+	url = https://bitbucket.org/sebastiendamaye/pdfobjflow
